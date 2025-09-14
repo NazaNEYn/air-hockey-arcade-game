@@ -3,8 +3,9 @@
 
 ![55](https://github.com/user-attachments/assets/cff838d3-bb54-42eb-846a-52dc7036284b)
 
-A classic two-player air hockey game built with Python's turtle library.
+A classic two-player air hockey game built with Python's turtle library. <br>
 
+You can check out the demo [HERE](https://www.youtube.com/watch?v=DcMIG9CCJcQ)
 
 ---
 
